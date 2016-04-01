@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="187dp"
+        android:background="#fbde05"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <FrameLayout
+            android:layout_width="192dp"
+            android:layout_height="match_parent"
+            android:background="#16fd05"
+            android:layout_gravity="right|center_vertical">
+            </FrameLayout>
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clickable="true"
+        android:background="#dab97a">
+
+        <FrameLayout
+            android:layout_width="195dp"
+            android:layout_height="208dp"
+            android:layout_gravity="left|top"
+            android:background="#041dfc">
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="192dp"
+            android:layout_height="204dp"
+            android:layout_gravity="left|bottom"
+            android:background="#fcf401">
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="86dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="left|bottom"
+            android:background="#f90206">
+
+        </FrameLayout>
+
+    </FrameLayout>
+
+</LinearLayout>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">intterfas</string>
+    <string name="Aplicacion2">Aplicacion 2</string>
+    <string name="PrimerValor">Primer valor</string>
+    <string name="SegundoValor">Segundo valor</string>
+    <string name="Calcular">Calcular</string>
+    <string name="TotalOperacion">Total de la operacion</string>
+    <string name="Suma">SUMA</string>
+    <string name="Resta">RESTA</string>
+    <string name="Multiplicar">Multiplicar</string>
+    <string name="Dividir">DIVIDIR</string>
+
+</resources>
